@@ -69,11 +69,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=capsule&color=0:0f172a,50:1e293b,100:0f172a&height=48&text=About%20Me&fontSize=22&fontColor=38bdf8" alt="About Me Capsule" />
-</div>
-
-<br/>
+### 👨‍💻 About Me
 
 ```yaml
 Name: Lohith R C
@@ -90,22 +86,14 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles & Collaboration
 - 🎓 **Academics & Leadership**: Final-year CSE student maintaining an **8.6 CGPA**, serving as **Frontend Lead & Technical Project Manager** on **SkillForge**, an enterprise-grade training platform under MagnusCopo & Elcarreira Technologies.
 - 🏆 **Hackathon Competitor & Builder**:
   - 🥈 **2nd Runner-Up** — *MIT Mysore Hackathon 2026* (Disaster-response spatial ML platform)
-  - 🚀 **Bharatiya Antariksh Hackathon (BAH 2026)** (Sub-linear satellite image retrieval using FAISS)
+  - 🚀 **Bharatiya Antariksh Hackathon (BAH) 2026** (Sub-linear satellite image retrieval using FAISS)
   - 🌐 **Buildverse Hackathon** (IEEE & ACM Dallas)
 - 🛠️ **Engineering Philosophy**: I bridge heavy-duty backend engineering (Spring Boot, FastAPI) with sleek, animated frontend interfaces (React, Vite, Three.js, Tailwind CSS) and applied AI/ML pipelines.
 - 📬 **Get in touch**: `lohithraj9090@gmail.com`
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                  MILESTONES & HACKATHONS (FEATURE)                  -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=capsule&color=0:0f172a,50:1e293b,100:0f172a&height=48&text=Milestones%20%26%20Hackathons&fontSize=22&fontColor=38bdf8" alt="Milestones Capsule" />
-</div>
-
-<br/>
+### 🏆 Milestones & Hackathons
 
 <div align="center">
 
@@ -121,15 +109,7 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles & Collaboration
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    CURRENT STATUS & FOCUS (FEATURE)                 -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=capsule&color=0:0f172a,50:1e293b,100:0f172a&height=48&text=Current%20Status%20%26%20Engineering%20Focus&fontSize=22&fontColor=38bdf8" alt="Status Capsule" />
-</div>
-
-<br/>
+### ⚡ Current Status & Engineering Focus
 
 <div align="center">
 
@@ -144,15 +124,7 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles & Collaboration
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                          TECH STACK & TOOLS                         -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=capsule&color=0:0f172a,50:1e293b,100:0f172a&height=48&text=Tech%20Stack%20%26%20Tools&fontSize=22&fontColor=38bdf8" alt="Tech Stack Capsule" />
-</div>
-
-<br/>
+### 🧰 Tech Stack & Tools
 
 <div align="center">
 
@@ -168,15 +140,7 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles & Collaboration
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                          FLAGSHIP PROJECTS                          -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=capsule&color=0:0f172a,50:1e293b,100:0f172a&height=48&text=Flagship%20Projects&fontSize=22&fontColor=38bdf8" alt="Projects Capsule" />
-</div>
-
-<br/>
+### 🚀 Flagship Projects
 
 <table>
   <tr>
@@ -283,15 +247,7 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles & Collaboration
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     GITHUB ACTIVITY & ANALYTICS                     -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=capsule&color=0:0f172a,50:1e293b,100:0f172a&height=48&text=GitHub%20Activity%20%26%20Analytics&fontSize=22&fontColor=38bdf8" alt="Analytics Capsule" />
-</div>
-
-<br/>
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
   <table border="0">
@@ -308,23 +264,11 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles & Collaboration
   <br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lohith-RC&theme=tokyonight&hide_border=true&stroke=38BDF8&background=161b22&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <img width="95%" src="https://github-readme-activity-graph-ashy.vercel.app/graph?username=Lohith-RC&theme=tokyo-night&hide_border=true&color=38BDF8" alt="Activity Graph" />
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                          CONTRIBUTION SNAKE                         -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=capsule&color=0:0f172a,50:1e293b,100:0f172a&height=48&text=Contribution%20Graph%20Snake&fontSize=22&fontColor=38bdf8" alt="Snake Capsule" />
-</div>
-
-<br/>
+### 🐍 Contribution Graph Snake
 
 <div align="center">
   <picture>
@@ -336,15 +280,9 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles & Collaboration
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     LET'S CONNECT & COLLABORATE                     -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+### 🤝 Let's Connect & Build Together
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=capsule&color=0:0f172a,50:1e293b,100:0f172a&height=48&text=Let's%20Connect%20%26%20Build%20Together&fontSize=22&fontColor=38bdf8" alt="Connect Capsule" />
-
-<br/><br/>
 
 <p>I'm always eager to collaborate on ambitious hackathon projects, scalable systems, and software engineering opportunities.</p>
 
