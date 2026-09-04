@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/Email-lohithraj9090%40gmail.com-EA4335?style=plastic&logo=gmail&logoColor=white" height="30" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/lohith-rc" target="_blank">
+  <a href="https://www.linkedin.com/in/lohith-r-c/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=plastic&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
   </a>
   &nbsp;
@@ -291,7 +291,7 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles & Collaboration
     <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=plastic&logo=gmail&logoColor=white" height="32" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/lohith-rc" target="_blank">
+  <a href="https://www.linkedin.com/in/lohith-r-c/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=plastic&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" />
   </a>
   &nbsp;
