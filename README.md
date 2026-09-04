@@ -18,27 +18,27 @@
 <!-- Interactive Capsule Navigation Bar -->
 <p align="center">
   <a href="#-about-me">
-    <img src="https://img.shields.io/badge/👨‍💻%20About%20Me-0f172a?style=plastic&logoColor=white" height="26" alt="About Me" />
+    <img src="https://img.shields.io/badge/About_Me-0f172a?style=plastic&logo=gitbook&logoColor=white" height="26" alt="About Me" />
   </a>
   &nbsp;
   <a href="#-milestones--hackathons">
-    <img src="https://img.shields.io/badge/🏆%20Milestones-0f172a?style=plastic&logoColor=white" height="26" alt="Milestones" />
+    <img src="https://img.shields.io/badge/Milestones-0f172a?style=plastic&logo=target&logoColor=white" height="26" alt="Milestones" />
   </a>
   &nbsp;
   <a href="#-tech-stack--tools">
-    <img src="https://img.shields.io/badge/🧰%20Tech%20Stack-0f172a?style=plastic&logoColor=white" height="26" alt="Tech Stack" />
+    <img src="https://img.shields.io/badge/Tech_Stack-0f172a?style=plastic&logo=stackshare&logoColor=white" height="26" alt="Tech Stack" />
   </a>
   &nbsp;
   <a href="#-flagship-projects">
-    <img src="https://img.shields.io/badge/🚀%20Projects-0f172a?style=plastic&logoColor=white" height="26" alt="Projects" />
+    <img src="https://img.shields.io/badge/Projects-0f172a?style=plastic&logo=github&logoColor=white" height="26" alt="Projects" />
   </a>
   &nbsp;
   <a href="#-github-activity--analytics">
-    <img src="https://img.shields.io/badge/📊%20Analytics-0f172a?style=plastic&logoColor=white" height="26" alt="Analytics" />
+    <img src="https://img.shields.io/badge/Analytics-0f172a?style=plastic&logo=googleanalytics&logoColor=white" height="26" alt="Analytics" />
   </a>
   &nbsp;
   <a href="#-lets-connect--build-together">
-    <img src="https://img.shields.io/badge/🤝%20Connect-0f172a?style=plastic&logoColor=white" height="26" alt="Connect" />
+    <img src="https://img.shields.io/badge/Connect-0f172a?style=plastic&logo=minutemailer&logoColor=white" height="26" alt="Connect" />
   </a>
 </p>
 
@@ -70,7 +70,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=capsule&color=0:0f172a,50:1e293b,100:0f172a&height=48&text=👨‍💻%20About%20Me&fontSize=22&fontColor=38bdf8" alt="About Me Capsule" />
+  <img src="https://capsule-render.vercel.app/api?type=capsule&color=0:0f172a,50:1e293b,100:0f172a&height=48&text=About%20Me&fontSize=22&fontColor=38bdf8" alt="About Me Capsule" />
 </div>
 
 <br/>
@@ -90,7 +90,7 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles & Collaboration
 - 🎓 **Academics & Leadership**: Final-year CSE student maintaining an **8.6 CGPA**, serving as **Frontend Lead & Technical Project Manager** on **SkillForge**, an enterprise-grade training platform under MagnusCopo & Elcarreira Technologies.
 - 🏆 **Hackathon Competitor & Builder**:
   - 🥈 **2nd Runner-Up** — *MIT Mysore Hackathon 2026* (Disaster-response spatial ML platform)
-  - 🚀 **Bharatiya Antariksh Hackathon (BAH) 2026** (Sub-linear satellite image retrieval using FAISS)
+  - 🚀 **Bharatiya Antariksh Hackathon (BAH 2026)** (Sub-linear satellite image retrieval using FAISS)
   - 🌐 **Buildverse Hackathon** (IEEE & ACM Dallas)
 - 🛠️ **Engineering Philosophy**: I bridge heavy-duty backend engineering (Spring Boot, FastAPI) with sleek, animated frontend interfaces (React, Vite, Three.js, Tailwind CSS) and applied AI/ML pipelines.
 - 📬 **Get in touch**: `lohithraj9090@gmail.com`
@@ -102,7 +102,7 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles & Collaboration
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=capsule&color=0:0f172a,50:1e293b,100:0f172a&height=48&text=🏆%20Milestones%20&%20Hackathons&fontSize=22&fontColor=38bdf8" alt="Milestones Capsule" />
+  <img src="https://capsule-render.vercel.app/api?type=capsule&color=0:0f172a,50:1e293b,100:0f172a&height=48&text=Milestones%20%26%20Hackathons&fontSize=22&fontColor=38bdf8" alt="Milestones Capsule" />
 </div>
 
 <br/>
@@ -126,7 +126,7 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles & Collaboration
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=capsule&color=0:0f172a,50:1e293b,100:0f172a&height=48&text=⚡%20Current%20Status%20&%20Engineering%20Focus&fontSize=22&fontColor=38bdf8" alt="Status Capsule" />
+  <img src="https://capsule-render.vercel.app/api?type=capsule&color=0:0f172a,50:1e293b,100:0f172a&height=48&text=Current%20Status%20%26%20Engineering%20Focus&fontSize=22&fontColor=38bdf8" alt="Status Capsule" />
 </div>
 
 <br/>
@@ -149,7 +149,7 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles & Collaboration
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=capsule&color=0:0f172a,50:1e293b,100:0f172a&height=48&text=🧰%20Tech%20Stack%20&%20Tools&fontSize=22&fontColor=38bdf8" alt="Tech Stack Capsule" />
+  <img src="https://capsule-render.vercel.app/api?type=capsule&color=0:0f172a,50:1e293b,100:0f172a&height=48&text=Tech%20Stack%20%26%20Tools&fontSize=22&fontColor=38bdf8" alt="Tech Stack Capsule" />
 </div>
 
 <br/>
@@ -173,7 +173,7 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles & Collaboration
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=capsule&color=0:0f172a,50:1e293b,100:0f172a&height=48&text=🚀%20Flagship%20Projects&fontSize=22&fontColor=38bdf8" alt="Projects Capsule" />
+  <img src="https://capsule-render.vercel.app/api?type=capsule&color=0:0f172a,50:1e293b,100:0f172a&height=48&text=Flagship%20Projects&fontSize=22&fontColor=38bdf8" alt="Projects Capsule" />
 </div>
 
 <br/>
@@ -193,7 +193,7 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles & Collaboration
       </p>
       <p>
         <a href="https://skillpassport-one.vercel.app">
-          <img src="https://img.shields.io/badge/🚀%20Live%20Application-38BDF8?style=plastic&logo=vercel&logoColor=white" height="26" alt="Live Demo" />
+          <img src="https://img.shields.io/badge/Live_Application-38BDF8?style=plastic&logo=vercel&logoColor=white" height="26" alt="Live Demo" />
         </a>
       </p>
     </td>
@@ -208,7 +208,7 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles & Collaboration
       </p>
       <p>
         <a href="https://github.com/Lohith-RC/Enterprise-zero-trust-identity-platform">
-          <img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=plastic&logo=github&logoColor=white" height="26" alt="Source Code" />
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=plastic&logo=github&logoColor=white" height="26" alt="Source Code" />
         </a>
       </p>
     </td>
@@ -225,7 +225,7 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles & Collaboration
       </p>
       <p>
         <a href="https://github.com/Lohith-RC">
-          <img src="https://img.shields.io/badge/📂%20View%20Repository-181717?style=plastic&logo=github&logoColor=white" height="26" alt="View Repo" />
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=plastic&logo=github&logoColor=white" height="26" alt="View Repo" />
         </a>
       </p>
     </td>
@@ -241,7 +241,7 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles & Collaboration
       </p>
       <p>
         <a href="https://github.com/Lohith-RC">
-          <img src="https://img.shields.io/badge/📂%20View%20Repository-181717?style=plastic&logo=github&logoColor=white" height="26" alt="View Repo" />
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=plastic&logo=github&logoColor=white" height="26" alt="View Repo" />
         </a>
       </p>
     </td>
@@ -259,7 +259,7 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles & Collaboration
       </p>
       <p>
         <a href="https://github.com/Lohith-RC">
-          <img src="https://img.shields.io/badge/📂%20View%20Repository-181717?style=plastic&logo=github&logoColor=white" height="26" alt="View Repo" />
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=plastic&logo=github&logoColor=white" height="26" alt="View Repo" />
         </a>
       </p>
     </td>
@@ -274,7 +274,7 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles & Collaboration
       </p>
       <p>
         <a href="https://github.com/Lohith-RC">
-          <img src="https://img.shields.io/badge/📂%20View%20Repository-181717?style=plastic&logo=github&logoColor=white" height="26" alt="View Repo" />
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=plastic&logo=github&logoColor=white" height="26" alt="View Repo" />
         </a>
       </p>
     </td>
@@ -288,7 +288,7 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles & Collaboration
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=capsule&color=0:0f172a,50:1e293b,100:0f172a&height=48&text=📊%20GitHub%20Activity%20&%20Analytics&fontSize=22&fontColor=38bdf8" alt="Analytics Capsule" />
+  <img src="https://capsule-render.vercel.app/api?type=capsule&color=0:0f172a,50:1e293b,100:0f172a&height=48&text=GitHub%20Activity%20%26%20Analytics&fontSize=22&fontColor=38bdf8" alt="Analytics Capsule" />
 </div>
 
 <br/>
@@ -297,10 +297,10 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles & Collaboration
   <table border="0">
     <tr>
       <td>
-        <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lohith-RC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&bg_color=161b22" alt="Lohith's GitHub Stats" />
+        <img height="165" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Lohith-RC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&bg_color=161b22" alt="Lohith's GitHub Stats" />
       </td>
       <td>
-        <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lohith-RC&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=161b22" alt="Top Languages" />
+        <img height="165" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Lohith-RC&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=161b22" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -311,7 +311,7 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles & Collaboration
 
   <br/><br/>
 
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lohith-RC&theme=tokyo-night&hide_border=true&color=38BDF8" alt="Activity Graph" />
+  <img width="95%" src="https://github-readme-activity-graph-ashy.vercel.app/graph?username=Lohith-RC&theme=tokyo-night&hide_border=true&color=38BDF8" alt="Activity Graph" />
 </div>
 
 ---
@@ -321,7 +321,7 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles & Collaboration
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=capsule&color=0:0f172a,50:1e293b,100:0f172a&height=48&text=🐍%20Contribution%20Graph%20Snake&fontSize=22&fontColor=38bdf8" alt="Snake Capsule" />
+  <img src="https://capsule-render.vercel.app/api?type=capsule&color=0:0f172a,50:1e293b,100:0f172a&height=48&text=Contribution%20Graph%20Snake&fontSize=22&fontColor=38bdf8" alt="Snake Capsule" />
 </div>
 
 <br/>
@@ -342,7 +342,7 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles & Collaboration
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=capsule&color=0:0f172a,50:1e293b,100:0f172a&height=48&text=🤝%20Let's%20Connect%20&%20Build%20Together&fontSize=22&fontColor=38bdf8" alt="Connect Capsule" />
+<img src="https://capsule-render.vercel.app/api?type=capsule&color=0:0f172a,50:1e293b,100:0f172a&height=48&text=Let's%20Connect%20%26%20Build%20Together&fontSize=22&fontColor=38bdf8" alt="Connect Capsule" />
 
 <br/><br/>
 
