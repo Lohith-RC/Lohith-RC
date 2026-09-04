@@ -15,28 +15,65 @@
 
 <br/>
 
-<!-- Interactive Pill Buttons & Badges -->
+<!-- Interactive Capsule Navigation Bar -->
+<p align="center">
+  <a href="#-about-me">
+    <img src="https://img.shields.io/badge/👨‍💻%20About%20Me-0f172a?style=plastic&logoColor=white" height="26" alt="About Me" />
+  </a>
+  &nbsp;
+  <a href="#-milestones--hackathons">
+    <img src="https://img.shields.io/badge/🏆%20Milestones-0f172a?style=plastic&logoColor=white" height="26" alt="Milestones" />
+  </a>
+  &nbsp;
+  <a href="#-tech-stack--tools">
+    <img src="https://img.shields.io/badge/🧰%20Tech%20Stack-0f172a?style=plastic&logoColor=white" height="26" alt="Tech Stack" />
+  </a>
+  &nbsp;
+  <a href="#-flagship-projects">
+    <img src="https://img.shields.io/badge/🚀%20Projects-0f172a?style=plastic&logoColor=white" height="26" alt="Projects" />
+  </a>
+  &nbsp;
+  <a href="#-github-activity--analytics">
+    <img src="https://img.shields.io/badge/📊%20Analytics-0f172a?style=plastic&logoColor=white" height="26" alt="Analytics" />
+  </a>
+  &nbsp;
+  <a href="#-lets-connect--build-together">
+    <img src="https://img.shields.io/badge/🤝%20Connect-0f172a?style=plastic&logoColor=white" height="26" alt="Connect" />
+  </a>
+</p>
+
+<br/>
+
+<!-- Interactive Capsule Buttons & Badges -->
 <p align="center">
   <a href="mailto:lohithraj9090@gmail.com">
-    <img src="https://img.shields.io/badge/Email-lohithraj9090%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-lohithraj9090%40gmail.com-EA4335?style=plastic&logo=gmail&logoColor=white" height="30" alt="Email" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/lohith-rc" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=plastic&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://github.com/Lohith-RC">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow%20%40Lohith--RC-181717?style=plastic&logo=github&logoColor=white" height="30" alt="GitHub" />
   </a>
+  &nbsp;
   <a href="https://github.com/Lohith-RC">
-    <img src="https://komarev.com/ghpvc/?username=Lohith-RC&label=Profile%20Views&color=38BDF8&style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Lohith-RC&label=Profile%20Views&color=38BDF8&style=plastic" height="30" alt="Profile Views" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Karnataka%2C%20India-8B5CF6?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Karnataka%2C%20India-8B5CF6?style=plastic&logo=google-maps&logoColor=white" height="30" alt="Location" />
 </p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=capsule&color=0:0f172a,50:1e293b,100:0f172a&height=48&text=👨‍💻%20About%20Me&fontSize=22&fontColor=38bdf8" alt="About Me Capsule" />
+</div>
+
+<br/>
 
 ```yaml
 Name: Lohith R C
@@ -45,11 +82,12 @@ Degree: B.E. in Computer Science & Engineering (CGPA: 8.6)
 Institution: Kalpataru Institute of Technology, Tiptur (VTU)
 Graduation: Expected 2027
 Current Work: Frontend Lead & TPM @ SkillForge (MagnusCopo & Elcarreira Technologies)
+Location: Arsikere, Karnataka, India
 Focus Areas: Zero-Trust Security, RAG & Vector Search, High-Throughput Web Services
-Availability: Open for SDE & AI/ML Internships / Full-Time Roles
+Availability: Open for SDE & AI/ML Internships / Full-Time Roles & Collaborations
 ```
 
-- 🎓 **Academics & Leadership**: Final-year CSE student maintaining an **8.6 CGPA**, serving as **Frontend Lead & Technical Project Manager** on **SkillForge**, an enterprise-grade training platform.
+- 🎓 **Academics & Leadership**: Final-year CSE student maintaining an **8.6 CGPA**, serving as **Frontend Lead & Technical Project Manager** on **SkillForge**, an enterprise-grade training platform under MagnusCopo & Elcarreira Technologies.
 - 🏆 **Hackathon Competitor & Builder**:
   - 🥈 **2nd Runner-Up** — *MIT Mysore Hackathon 2026* (Disaster-response spatial ML platform)
   - 🚀 **Bharatiya Antariksh Hackathon (BAH) 2026** (Sub-linear satellite image retrieval using FAISS)
@@ -59,23 +97,86 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles
 
 ---
 
-### 🧰 Tech Stack & Tools
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                  MILESTONES & HACKATHONS (FEATURE)                  -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=capsule&color=0:0f172a,50:1e293b,100:0f172a&height=48&text=🏆%20Milestones%20&%20Hackathons&fontSize=22&fontColor=38bdf8" alt="Milestones Capsule" />
+</div>
+
+<br/>
 
 <div align="center">
 
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org) [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://java.com) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org) [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org) [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org) |
-| **Frontend & UI** | [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev) [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev) [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com) [![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)](https://threejs.org) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://w3.org) |
-| **Backend & APIs** | [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://spring.io) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org) [![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com) [![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)](https://jwt.io) [![REST](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=rest&logoColor=white)](https://restfulapi.net) |
-| **AI, ML & Data** | [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org) [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://tensorflow.org) [![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org) [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://langchain.com) [![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-0467DF?style=flat-square&logo=meta&logoColor=white)](https://github.com/facebookresearch/faiss) [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org) |
-| **Cloud, DB & DevOps** | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://mongodb.com) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com) [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com) [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://kernel.org) |
+| Milestone / Event | Role / Project | Recognition & Impact |
+| :--- | :--- | :--- |
+| **MIT Mysore Hackathon 2026** | Project Lead • *DisasterLens* | 🥈 **2nd Runner-Up** • Spatial AI & Hazard Forecasting |
+| **Bharatiya Antariksh Hackathon (BAH 2026)** | AI Architect • *ModalBridge* | 🚀 **Selected Submission** • Sub-linear Satellite Image Retrieval |
+| **Buildverse Hackathon (IEEE / ACM Dallas)** | Full-Stack Builder | 🌐 **Active Competitor** • Global Hackathon Submission |
+| **SkillForge Enterprise Platform** | Frontend Lead & TPM | 🧑‍💼 **Production Delivery** • MagnusCopo & Elcarreira Technologies |
+| **Kalpataru Institute of Technology (VTU)** | B.E. Computer Science | ⭐ **8.6 CGPA** • Academic Excellence & Technical Leadership |
 
 </div>
 
 ---
 
-### 🚀 Flagship Projects
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                    CURRENT STATUS & FOCUS (FEATURE)                 -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=capsule&color=0:0f172a,50:1e293b,100:0f172a&height=48&text=⚡%20Current%20Status%20&%20Engineering%20Focus&fontSize=22&fontColor=38bdf8" alt="Status Capsule" />
+</div>
+
+<br/>
+
+<div align="center">
+
+| Track | Current Focus & Objective |
+| :--- | :--- |
+| 🔭 **Currently Building** | Scaling **SkillPassport AI** and zero-trust identity architectures for credential verification. |
+| 📚 **Currently Mastering** | Advanced System Design, Distributed Consensus, High-Concurrency Spring Boot Services. |
+| 🧠 **AI / ML Research** | Low-latency Retrieval-Augmented Generation (RAG) & Multimodal Cross-Attention Vector Search. |
+| 🤝 **Looking to Collaborate** | Ambitious hackathons, high-impact open-source systems, and full-stack/AI-ML products. |
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                          TECH STACK & TOOLS                         -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=capsule&color=0:0f172a,50:1e293b,100:0f172a&height=48&text=🧰%20Tech%20Stack%20&%20Tools&fontSize=22&fontColor=38bdf8" alt="Tech Stack Capsule" />
+</div>
+
+<br/>
+
+<div align="center">
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Languages** | [![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)](https://python.org) [![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)](https://java.com) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)](https://typescriptlang.org) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)](https://developer.mozilla.org) [![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=postgresql&logoColor=white)](https://postgresql.org) [![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)](https://isocpp.org) |
+| **Frontend & UI** | [![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)](https://react.dev) [![Vite](https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white)](https://vitejs.dev) [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white)](https://tailwindcss.com) [![Three.js](https://img.shields.io/badge/Three.js-000000?style=plastic&logo=three.js&logoColor=white)](https://threejs.org) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://html.spec.whatwg.org) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)](https://w3.org) |
+| **Backend & APIs** | [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=plastic&logo=springboot&logoColor=white)](https://spring.io) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)](https://nodejs.org) [![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white)](https://flask.palletsprojects.com) [![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)](https://jwt.io) [![REST](https://img.shields.io/badge/REST_APIs-005571?style=plastic&logo=rest&logoColor=white)](https://restfulapi.net) |
+| **AI, ML & Data** | [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)](https://pytorch.org) [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)](https://tensorflow.org) [![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)](https://scikit-learn.org) [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=plastic&logo=langchain&logoColor=white)](https://langchain.com) [![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-0467DF?style=plastic&logo=meta&logoColor=white)](https://github.com/facebookresearch/faiss) [![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)](https://pandas.pydata.org) |
+| **Cloud, DB & DevOps** | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white)](https://postgresql.org) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)](https://mongodb.com) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)](https://docker.com) [![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)](https://vercel.com) [![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)](https://git-scm.com) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)](https://kernel.org) [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)](https://postman.com) |
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                          FLAGSHIP PROJECTS                          -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=capsule&color=0:0f172a,50:1e293b,100:0f172a&height=48&text=🚀%20Flagship%20Projects&fontSize=22&fontColor=38bdf8" alt="Projects Capsule" />
+</div>
+
+<br/>
 
 <table>
   <tr>
@@ -84,48 +185,65 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles
       <p><b>Full-Stack Skill Verification Platform</b></p>
       <p>Features responsive 3D visualization, enterprise authentication, and automated credentials verification.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/JWT-black?style=flat-square" />
+        <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=plastic&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/Three.js-000000?style=plastic&logo=three.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=plastic&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-black?style=plastic" />
       </p>
-      <a href="https://skillpassport-one.vercel.app"><b>🚀 Live Application »</b></a>
+      <p>
+        <a href="https://skillpassport-one.vercel.app">
+          <img src="https://img.shields.io/badge/🚀%20Live%20Application-38BDF8?style=plastic&logo=vercel&logoColor=white" height="26" alt="Live Demo" />
+        </a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>🛡️ <a href="https://github.com/Lohith-RC/Enterprise-zero-trust-identity-platform">Enterprise Zero Trust Identity Platform</a></h3>
       <p><b>Identity & Access Management Engine</b></p>
       <p>A deployed zero-trust identity platform enforcing continuous authentication, RBAC policies, and micro-segmentation.</p>
       <p>
-        <img src="https://img.shields.io/badge/Zero_Trust-Architecture-red?style=flat-square" />
-        <img src="https://img.shields.io/badge/Security-RBAC-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Full_Stack-Enterprise-brightgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/Zero_Trust-Architecture-red?style=plastic" />
+        <img src="https://img.shields.io/badge/Security-RBAC-blue?style=plastic" />
+        <img src="https://img.shields.io/badge/Full_Stack-Enterprise-brightgreen?style=plastic" />
       </p>
-      <a href="https://github.com/Lohith-RC/Enterprise-zero-trust-identity-platform"><b>📂 Source Code »</b></a>
+      <p>
+        <a href="https://github.com/Lohith-RC/Enterprise-zero-trust-identity-platform">
+          <img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=plastic&logo=github&logoColor=white" height="26" alt="Source Code" />
+        </a>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🛰️ ModalBridge</h3>
-      <p><b>Cross-Modal Satellite Image Retrieval</b> &nbsp;<sub><i>(BAH 2026)</i></sub></p>
+      <p><b>Cross-Modal Satellite Image Retrieval</b> &nbsp;<sub><i>(BAH 2026 Submission)</i></sub></p>
       <p>High-speed satellite image retrieval utilizing frozen ResNet backbones and sub-linear FAISS cosine similarity vector search.</p>
       <p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/ResNet-Computer_Vision-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/FAISS-Vector_Search-0467DF?style=flat-square" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/ResNet-Computer_Vision-orange?style=plastic" />
+        <img src="https://img.shields.io/badge/FAISS-Vector_Search-0467DF?style=plastic" />
       </p>
-      <a href="https://github.com/Lohith-RC"><b>📂 View Repository »</b></a>
+      <p>
+        <a href="https://github.com/Lohith-RC">
+          <img src="https://img.shields.io/badge/📂%20View%20Repository-181717?style=plastic&logo=github&logoColor=white" height="26" alt="View Repo" />
+        </a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>🚨 DisasterLens</h3>
-      <p><b>Disaster-Response Analytics</b> &nbsp;<sub><i>(🏆 2nd Runner-Up, MIT Hackathon)</i></sub></p>
+      <p><b>Disaster-Response Analytics</b> &nbsp;<sub><i>(🏆 2nd Runner-Up, MIT Mysore Hackathon)</i></sub></p>
       <p>Predictive hazard analysis system built with Random Forest ensembles, DBSCAN spatial clustering, and SHAP explainability models.</p>
       <p>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/SHAP-Explainable_AI-purple?style=flat-square" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/SHAP-Explainable_AI-purple?style=plastic" />
+        <img src="https://img.shields.io/badge/DBSCAN-Clustering-green?style=plastic" />
       </p>
-      <a href="https://github.com/Lohith-RC"><b>📂 View Repository »</b></a>
+      <p>
+        <a href="https://github.com/Lohith-RC">
+          <img src="https://img.shields.io/badge/📂%20View%20Repository-181717?style=plastic&logo=github&logoColor=white" height="26" alt="View Repo" />
+        </a>
+      </p>
     </td>
   </tr>
   <tr>
@@ -134,36 +252,52 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles
       <p><b>Retrieval-Augmented Generation (RAG) System</b></p>
       <p>Context-aware question answering pipeline using FastAPI, LangChain, semantic vector embeddings, and MongoDB persistence.</p>
       <p>
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/FAISS-Vector_DB-0467DF?style=flat-square" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=plastic&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/FAISS-Vector_DB-0467DF?style=plastic" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white" />
       </p>
-      <a href="https://github.com/Lohith-RC"><b>📂 View Repository »</b></a>
+      <p>
+        <a href="https://github.com/Lohith-RC">
+          <img src="https://img.shields.io/badge/📂%20View%20Repository-181717?style=plastic&logo=github&logoColor=white" height="26" alt="View Repo" />
+        </a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>🔬 Visionary Diagnostics</h3>
       <p><b>Deep Learning Healthcare Diagnostics</b></p>
       <p>Ensemble Convolutional Neural Network (CNN) model for early oral squamous cell carcinoma (OSCC) detection from histopathology images.</p>
       <p>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-        <img src="https://img.shields.io/badge/CNN-Medical_Imaging-teal?style=flat-square" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white" />
+        <img src="https://img.shields.io/badge/CNN-Medical_Imaging-teal?style=plastic" />
       </p>
-      <a href="https://github.com/Lohith-RC"><b>📂 View Repository »</b></a>
+      <p>
+        <a href="https://github.com/Lohith-RC">
+          <img src="https://img.shields.io/badge/📂%20View%20Repository-181717?style=plastic&logo=github&logoColor=white" height="26" alt="View Repo" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Activity & Analytics
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                     GITHUB ACTIVITY & ANALYTICS                     -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=capsule&color=0:0f172a,50:1e293b,100:0f172a&height=48&text=📊%20GitHub%20Activity%20&%20Analytics&fontSize=22&fontColor=38bdf8" alt="Analytics Capsule" />
+</div>
+
+<br/>
 
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lohith-RC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&bg_color=161b22" alt="GitHub Stats" />
+        <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lohith-RC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&bg_color=161b22" alt="Lohith's GitHub Stats" />
       </td>
       <td>
         <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lohith-RC&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=161b22" alt="Top Languages" />
@@ -182,7 +316,15 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles
 
 ---
 
-### 🐍 Contribution Graph Eating Snake
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                          CONTRIBUTION SNAKE                         -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=capsule&color=0:0f172a,50:1e293b,100:0f172a&height=48&text=🐍%20Contribution%20Graph%20Snake&fontSize=22&fontColor=38bdf8" alt="Snake Capsule" />
+</div>
+
+<br/>
 
 <div align="center">
   <picture>
@@ -194,23 +336,29 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                     LET'S CONNECT & COLLABORATE                     -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<h3>🤝 Let's Connect & Build Together</h3>
+<img src="https://capsule-render.vercel.app/api?type=capsule&color=0:0f172a,50:1e293b,100:0f172a&height=48&text=🤝%20Let's%20Connect%20&%20Build%20Together&fontSize=22&fontColor=38bdf8" alt="Connect Capsule" />
+
+<br/><br/>
 
 <p>I'm always eager to collaborate on ambitious hackathon projects, scalable systems, and software engineering opportunities.</p>
 
-<p>
-  <a href="https://github.com/Lohith-RC">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20%40Lohith--RC-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/lohith-rc">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
+<p align="center">
   <a href="mailto:lohithraj9090@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=plastic&logo=gmail&logoColor=white" height="32" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/lohith-rc" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=plastic&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Lohith-RC">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20%40Lohith--RC-181717?style=plastic&logo=github&logoColor=white" height="32" alt="GitHub" />
   </a>
 </p>
 
