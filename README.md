@@ -107,8 +107,12 @@ Availability: Open for SDE, Full-Stack & AI/ML Roles, Research & Hackathon Colla
         <img src="https://img.shields.io/badge/Docker-Ready-2496ED?style=plastic&logo=docker&logoColor=white" />
       </p>
       <p>
+        <a href="https://project-saarthi-theta.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Vercel_Edge_UI-000000?style=plastic&logo=vercel&logoColor=white" height="26" alt="Live Vercel Edge UI" />
+        </a>
+        &nbsp;
         <a href="https://saarthi-backend-bvdl.onrender.com" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Cloud_HUD-38BDF8?style=plastic&logo=render&logoColor=white" height="26" alt="Live Demo" />
+          <img src="https://img.shields.io/badge/Render_Backend-46E3B7?style=plastic&logo=render&logoColor=white" height="26" alt="Live Render Backend" />
         </a>
         &nbsp;
         <a href="https://github.com/Lohith-RC/SAARTHI">
