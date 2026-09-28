@@ -4,13 +4,13 @@
 <!--                          AESTHETIC HEADER                           -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,26&height=220&section=header&text=Lohith%20R%20C&fontSize=48&fontAlignY=36&fontColor=ffffff&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Hackathon%20Builder&descAlignY=58&descSize=19&descAlign=50" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,26&height=220&section=header&text=Lohith%20R%20C&fontSize=48&fontAlignY=36&fontColor=ffffff&desc=Full-Stack%20Architect%20%E2%80%A2%20Applied%20AI%2FML%20Engineer%20%E2%80%A2%20Systems%20Builder&descAlignY=58&descSize=19&descAlign=50" width="100%" alt="Header Banner" />
 
 <br/>
 
 <!-- Dynamic Typing Effect -->
 <a href="https://github.com/Lohith-RC">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&height=45&lines=Hi+there!+%F0%9F%91%8B+I'm+Lohith+R+C;Full-Stack+Developer+%26+Applied+AI%2FML+Engineer;Final-Year+CSE+Student+%40+KIT+Tiptur+(VTU);Frontend+Lead+%26+TPM+on+SkillForge;Building+High-Impact+Systems+for+Hackathons+%26+Scale" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=680&height=45&lines=Hi+there!+%F0%9F%91%8B+I'm+Lohith+R+C;Full-Stack+Developer+%26+Applied+AI%2FML+Engineer;Building+Autonomous+AI%2C+Zero-Trust+%26+Cloud+Systems;Frontend+Lead+%26+TPM+%40+SkillForge;Hackathon+Innovator+%E2%80%A2+Open-Source+Creator" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,8 +21,8 @@
     <img src="https://img.shields.io/badge/About_Me-0f172a?style=plastic&logo=gitbook&logoColor=white" height="26" alt="About Me" />
   </a>
   &nbsp;
-  <a href="#-featured-open-source-projects">
-    <img src="https://img.shields.io/badge/Projects-0f172a?style=plastic&logo=github&logoColor=white" height="26" alt="Projects" />
+  <a href="#-featured-projects">
+    <img src="https://img.shields.io/badge/Featured_Projects-0f172a?style=plastic&logo=github&logoColor=white" height="26" alt="Projects" />
   </a>
   &nbsp;
   <a href="#-tech-stack--tools">
@@ -62,7 +62,7 @@
     <img src="https://komarev.com/ghpvc/?username=Lohith-RC&label=Profile%20Views&color=38BDF8&style=plastic" height="30" alt="Profile Views" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-Arsikere%2C%20India-8B5CF6?style=plastic&logo=google-maps&logoColor=white" height="30" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Karnataka%2C%20India-8B5CF6?style=plastic&logo=google-maps&logoColor=white" height="30" alt="Location" />
 </p>
 
 </div>
@@ -76,32 +76,55 @@ Name: Lohith R C
 Role: Full-Stack Developer & Applied AI/ML Engineer
 Degree: B.E. in Computer Science & Engineering (CGPA: 8.6)
 Institution: Kalpataru Institute of Technology, Tiptur (VTU)
-Graduation: Expected 2027
-Current Work: Frontend Lead & TPM @ SkillForge (MagnusCopo & Elcarreira Technologies)
+Leadership: Frontend Lead & TPM @ SkillForge (MagnusCopo & Elcarreira Technologies)
+Core Focus: Distributed Systems • Generative AI & Computer Vision • Zero Trust • IoT & Real-Time Streams
 Portfolio: https://portfolio-delta-five-xn2osh53b6.vercel.app/
-Location: Arsikere, Karnataka, India
-Availability: Open for SDE & AI/ML Internships / Full-Time Roles & Collaborations
+Location: Karnataka, India
+Availability: Open for SDE, Full-Stack & AI/ML Roles, Research & Hackathon Collaborations
 ```
 
-- 🎓 **Academics & Leadership**: Final-year Computer Science student maintaining an **8.6 CGPA**, serving as **Frontend Lead & Technical Project Manager** on **SkillForge**, a platform under MagnusCopo & Elcarreira Technologies.
-- 🛠️ **Full-Stack & Applied AI Builder**: Active open-source creator architecting zero-trust platforms, AI-driven disaster triage systems, medical NLP CRMs, VR emergency simulators, and smart agricultural bots.
-- 🏆 **Hackathon Competitor**: Passionate about hackathons, rapid prototyping, and building production-grade software that solves real problems.
-- 📬 **Reach out**: `lohithraj9090@gmail.com` • [Portfolio](https://portfolio-delta-five-xn2osh53b6.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/lohith-r-c/)
+- 🎓 **Academics & Technical Leadership**: Final-year Computer Science student maintaining an **8.6 CGPA**, serving as **Frontend Lead & Technical Project Manager** on **SkillForge** (MagnusCopo & Elcarreira Technologies).
+- 🧠 **Applied AI & Deep Learning**: Engineering real-world AI systems spanning multi-modal crop intelligence (**SAARTHI** with Gemini AI & Groq), deep learning histopathology diagnostics (**ORC** OSCC cancer triage in PyTorch), emergency response NLP (**MedPulse AI**), and explainable disaster prioritization (**DisasterLens**).
+- 🛡️ **Full-Stack & Security Architect**: Designing enterprise zero-trust microservices (**TrustSphere PEP/PDP**), credential verification platforms (**SkillPassport AI**), and student intelligence hubs (**Aegis Academics**).
+- ⚡ **IoT & Spatial Interfaces**: Integrating ESP32 FreeRTOS microcontrollers with WebSocket telemetry, WebGL 3D dashboards, and immersive VR disaster simulators (**CBRN-X**).
 
 ---
 
-### 🚀 Featured Open-Source Projects
+### 🚀 Featured Projects
 
 <table>
+  <!-- Row 1: SAARTHI & SkillPassport AI -->
   <tr>
+    <td width="50%" valign="top">
+      <h3>🌿 <a href="https://github.com/Lohith-RC/SAARTHI">Project SAARTHI</a></h3>
+      <p><b>Autonomous AI Agritech & Real-Time Climate Control Engine</b></p>
+      <p>Full-stack indoor horticulture operating system combining Java 21 Spring Boot 3.5, WebGL 3D spatial chamber digital twin, Gemini 2.5 AI agronomy reasoning, live WebSocket telemetry, and ESP32 FreeRTOS fail-safe firmware.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java_21-Spring_Boot_3.5-6DB33F?style=plastic&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_AI-Groq_Llama_3-8B5CF6?style=plastic&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/WebGL_3D-HUD-000000?style=plastic&logo=three.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/ESP32-FreeRTOS-E7352C?style=plastic&logo=espressif&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-Ready-2496ED?style=plastic&logo=docker&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://saarthi-backend-bvdl.onrender.com" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Cloud_HUD-38BDF8?style=plastic&logo=render&logoColor=white" height="26" alt="Live Demo" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/Lohith-RC/SAARTHI">
+          <img src="https://img.shields.io/badge/Repository-181717?style=plastic&logo=github&logoColor=white" height="26" alt="Repository" />
+        </a>
+      </p>
+    </td>
     <td width="50%" valign="top">
       <h3>🌐 <a href="https://github.com/Lohith-RC/skillpassport">SkillPassport AI</a></h3>
       <p><b>Full-Stack Skill Verification & Credentialing Platform</b></p>
-      <p>Full-stack verification platform featuring responsive 3D visualization, enterprise authentication, and credential workflows.</p>
+      <p>Interactive verification platform featuring interactive 3D credential visualization, enterprise role-based authentication, and automated proof-of-competency issuance workflows.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Java-Spring_Boot-6DB33F?style=plastic&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Three.js-000000?style=plastic&logo=three.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Three.js-3D_Visuals-000000?style=plastic&logo=three.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=plastic&logo=springboot&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" />
       </p>
       <p>
@@ -114,15 +137,19 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles & Collaboration
         </a>
       </p>
     </td>
+  </tr>
+
+  <!-- Row 2: Enterprise Zero Trust & DisasterLens -->
+  <tr>
     <td width="50%" valign="top">
       <h3>🛡️ <a href="https://github.com/Lohith-RC/Enterprise-zero-trust-identity-platform">Enterprise Zero Trust Identity Platform</a></h3>
-      <p><b>TrustSphere: Layered Zero-Trust Access Architecture</b></p>
-      <p>Enforces dynamic Policy Enforcement Points (PEP) and Policy Decision Engines with role- and attribute-based access control (RBAC/ABAC).</p>
+      <p><b>TrustSphere: Policy Enforcement & Access Decision Architecture</b></p>
+      <p>Layered Zero Trust security architecture enforcing dynamic Policy Enforcement Points (PEP) and Policy Decision Engines (PDP) with fine-grained RBAC/ABAC and adaptive risk scoring.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Zero_Trust-Security-red?style=plastic" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-Backend-ED8B00?style=plastic&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Zero_Trust-PEP%2FPDP-DC2626?style=plastic" />
+        <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=plastic&logo=docker&logoColor=white" />
       </p>
       <p>
         <a href="https://enterprise-zero-trust-identity-plat.vercel.app" target="_blank">
@@ -134,16 +161,15 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles & Collaboration
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🚨 <a href="https://github.com/Lohith-RC/DisasterLens">DisasterLens</a></h3>
-      <p><b>AI-Powered Disaster Intelligence & SOS Signaling Platform</b></p>
-      <p>Connects victims with emergency rescue teams via real-time SOS messaging, explainable AI triage, and live geospatial tactical maps.</p>
+      <p><b>AI Disaster Intelligence & Real-Time SOS Triage Map</b></p>
+      <p>Connects disaster victims directly with first responders through instant SOS signaling, Explainable AI (XAI) severity assessment, and live tactical geospatial incident maps.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Explainable_AI-Triage-purple?style=plastic" />
-        <img src="https://img.shields.io/badge/Real--Time-SOS_Maps-orange?style=plastic" />
+        <img src="https://img.shields.io/badge/Explainable_AI-Triage-9333EA?style=plastic" />
+        <img src="https://img.shields.io/badge/Real--Time-SOS_Mapping-EA580C?style=plastic" />
+        <img src="https://img.shields.io/badge/Vite-Fast_UI-646CFF?style=plastic&logo=vite&logoColor=white" />
       </p>
       <p>
         <a href="https://github.com/Lohith-RC/DisasterLens">
@@ -151,14 +177,35 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles & Collaboration
         </a>
       </p>
     </td>
+  </tr>
+
+  <!-- Row 3: ORC Deep Learning & MedPulse AI CRM -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔬 <a href="https://github.com/Lohith-RC/ORC">ORC: AI Oral Cancer Detection & Triage</a></h3>
+      <p><b>Deep Learning Platform for Squamous Cell Carcinoma (OSCC)</b></p>
+      <p>Computer vision diagnostic platform leveraging PyTorch convolutional neural networks for early-stage oral lesion segmentation, confidence calibration, and clinical triage reports.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-Deep_Learning-EE4C2C?style=plastic&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-Async_API-009688?style=plastic&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-Clinical_UI-20232A?style=plastic&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Computer_Vision-Medical_AI-0284C7?style=plastic" />
+      </p>
+      <p>
+        <a href="https://github.com/Lohith-RC/ORC">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=plastic&logo=github&logoColor=white" height="26" alt="Repository" />
+        </a>
+      </p>
+    </td>
     <td width="50%" valign="top">
       <h3>🩺 <a href="https://github.com/Lohith-RC/medpulse-ai-crm">MedPulse AI CRM</a></h3>
-      <p><b>Autonomous AI-Powered Healthcare Professional CRM</b></p>
-      <p>Streamlines HCP interactions featuring voice/NLP meeting logging, clinical sentiment analysis, and intelligent automated follow-up actions.</p>
+      <p><b>Autonomous Voice & NLP CRM for Healthcare Professionals</b></p>
+      <p>Streamlines HCP clinical encounters with real-time speech transcription, clinical sentiment extraction, medication compliance tracking, and automated intelligent follow-up actions.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Python-NLP-3776AB?style=plastic&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Healthcare_AI-CRM-009688?style=plastic" />
+        <img src="https://img.shields.io/badge/Python-NLP_Engine-3776AB?style=plastic&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-Client-F7DF1E?style=plastic&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Healthcare_AI-Sentiment-059669?style=plastic" />
+        <img src="https://img.shields.io/badge/License-MIT-green?style=plastic" />
       </p>
       <p>
         <a href="https://github.com/Lohith-RC/medpulse-ai-crm">
@@ -167,15 +214,33 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles & Collaboration
       </p>
     </td>
   </tr>
+
+  <!-- Row 4: Aegis Academics & CBRN-X -->
   <tr>
     <td width="50%" valign="top">
-      <h3>🥽 <a href="https://github.com/Lohith-RC/CBRN-X">CBRN-X</a></h3>
-      <p><b>Immersive VR Disaster-Response Simulation Platform</b></p>
-      <p>VR-ready training environment for first responders facing Chemical, Biological, Radiological & Nuclear hazard scenarios with telemetry analytics.</p>
+      <h3>📚 <a href="https://github.com/Lohith-RC/Aegis-Academics">Aegis Academics</a></h3>
+      <p><b>Unified Academic Command Center & 3D Learning Sandbox</b></p>
+      <p>Student productivity suite featuring VTU attendance forecasting, interactive 3D WebGL quantum core math visualizer, syllabus tracking, and an AI study companion with offline fallback.</p>
       <p>
-        <img src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=csharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/Unity-VR_Ready-000000?style=plastic&logo=unity&logoColor=white" />
-        <img src="https://img.shields.io/badge/Simulation-Hazard_Response-red?style=plastic" />
+        <img src="https://img.shields.io/badge/React_19-TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-Motion-06B6D4?style=plastic&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-API_Server-000000?style=plastic&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google_GenAI-Companion-8B5CF6?style=plastic&logo=google&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/Lohith-RC">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=plastic&logo=github&logoColor=white" height="26" alt="Repository" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🥽 <a href="https://github.com/Lohith-RC/CBRN-X">CBRN-X</a></h3>
+      <p><b>Immersive VR Disaster Response Training Simulator</b></p>
+      <p>VR training environment for emergency first responders facing Chemical, Biological, Radiological, and Nuclear hazards with real-time biometric and tactical performance telemetry.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-DotNET-239120?style=plastic&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/Unity-VR_Environment-000000?style=plastic&logo=unity&logoColor=white" />
+        <img src="https://img.shields.io/badge/Simulation-Hazard_Drills-DC2626?style=plastic" />
       </p>
       <p>
         <a href="https://github.com/Lohith-RC/CBRN-X">
@@ -183,31 +248,18 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles & Collaboration
         </a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🌾 <a href="https://github.com/Lohith-RC/SAARTHI">SAARTHI</a></h3>
-      <p><b>Intelligent AI Assistant for Indoor Harvesters</b></p>
-      <p>Agricultural automation system designed to optimize indoor harvesting operations, environmental monitoring, and predictive yields.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-AI_Agent-3776AB?style=plastic&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Smart_Agri-Automation-brightgreen?style=plastic" />
-      </p>
-      <p>
-        <a href="https://github.com/Lohith-RC/SAARTHI">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=plastic&logo=github&logoColor=white" height="26" alt="Repository" />
-        </a>
-      </p>
-    </td>
   </tr>
+
+  <!-- Row 5: MockGenius & DevConnect -->
   <tr>
     <td width="50%" valign="top">
       <h3>🧠 <a href="https://github.com/Lohith-RC/MockGenius">MockGenius</a></h3>
-      <p><b>Smart Technical Interview Practice Platform</b></p>
-      <p>Comprehensive interactive platform enabling software engineers to simulate technical rounds and algorithmic problem solving.</p>
+      <p><b>Smart Technical Interview Simulator & Evaluator</b></p>
+      <p>Interactive platform enabling software engineers to simulate technical rounds, practice algorithmic challenges, and receive structured feedback.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=plastic&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Interview_Prep-Interactive-blueviolet?style=plastic" />
+        <img src="https://img.shields.io/badge/Interview_Prep-Interactive-7C3AED?style=plastic" />
       </p>
       <p>
         <a href="https://github.com/Lohith-RC/MockGenius">
@@ -217,8 +269,8 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles & Collaboration
     </td>
     <td width="50%" valign="top">
       <h3>💻 <a href="https://github.com/Lohith-RC/DevConnect">DevConnect</a></h3>
-      <p><b>Developer Social Network & Code Milestones</b></p>
-      <p>Features a Django backend with asymmetric follow relations and asynchronous fetch() updates for real-time interactions.</p>
+      <p><b>Developer Social Network & Code Milestone Hub</b></p>
+      <p>Engineered with Django backend, asymmetric follower graph, relational database schemas, and asynchronous fetch() updates for real-time interactions.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-Django-092E20?style=plastic&logo=django&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-Async_Fetch-F7DF1E?style=plastic&logo=javascript&logoColor=black" />
@@ -239,13 +291,14 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles & Collaboration
 
 <div align="center">
 
-| Domain | Verified Technologies Across Repositories |
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)](https://typescriptlang.org) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)](https://developer.mozilla.org) [![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)](https://java.com) [![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)](https://python.org) [![C#](https://img.shields.io/badge/C%23-239120?style=plastic&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/) [![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)](https://isocpp.org) [![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=postgresql&logoColor=white)](https://postgresql.org) |
-| **Frontend & UI** | [![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)](https://react.dev) [![Vite](https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white)](https://vitejs.dev) [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white)](https://tailwindcss.com) [![Three.js](https://img.shields.io/badge/Three.js-000000?style=plastic&logo=three.js&logoColor=white)](https://threejs.org) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://html.spec.whatwg.org) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)](https://w3.org) |
-| **Backend & APIs** | [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=plastic&logo=springboot&logoColor=white)](https://spring.io) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com) [![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)](https://djangoproject.com) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)](https://nodejs.org) [![REST](https://img.shields.io/badge/REST_APIs-005571?style=plastic&logo=rest&logoColor=white)](https://restfulapi.net) |
-| **AI, ML & Simulation** | [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)](https://pytorch.org) [![NLP](https://img.shields.io/badge/NLP-Sentiment_Analysis-009688?style=plastic)](https://python.org) [![Unity](https://img.shields.io/badge/Unity_VR-000000?style=plastic&logo=unity&logoColor=white)](https://unity.com) [![Explainable_AI](https://img.shields.io/badge/XAI-Triage_Models-purple?style=plastic)](https://scikit-learn.org) |
-| **Cloud, DevOps & Tools** | [![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)](https://docker.com) [![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)](https://vercel.com) [![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)](https://git-scm.com) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white)](https://postgresql.org) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)](https://kernel.org) [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)](https://postman.com) |
+| **Languages** | [![Java](https://img.shields.io/badge/Java_21-ED8B00?style=plastic&logo=openjdk&logoColor=white)](https://java.com) [![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)](https://python.org) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)](https://typescriptlang.org) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)](https://developer.mozilla.org) [![C#](https://img.shields.io/badge/C%23-239120?style=plastic&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/) [![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)](https://isocpp.org) [![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=postgresql&logoColor=white)](https://postgresql.org) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://html.spec.whatwg.org) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)](https://w3.org) |
+| **Frontend & Spatial UI** | [![React](https://img.shields.io/badge/React_19-20232A?style=plastic&logo=react&logoColor=61DAFB)](https://react.dev) [![Vite](https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white)](https://vitejs.dev) [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white)](https://tailwindcss.com) [![Three.js](https://img.shields.io/badge/Three.js-WebGL-000000?style=plastic&logo=three.js&logoColor=white)](https://threejs.org) [![Framer Motion](https://img.shields.io/badge/Motion-Animation-FF0055?style=plastic&logo=framer&logoColor=white)](https://motion.dev) |
+| **Backend & Distributed APIs** | [![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.5-6DB33F?style=plastic&logo=springboot&logoColor=white)](https://spring.io) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com) [![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)](https://djangoproject.com) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)](https://nodejs.org) [![Express](https://img.shields.io/badge/Express-000000?style=plastic&logo=express&logoColor=white)](https://expressjs.com) [![WebSockets](https://img.shields.io/badge/WebSockets-Real_Time-010101?style=plastic&logo=socketdotio&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) [![RESTful APIs](https://img.shields.io/badge/REST-Microservices-005571?style=plastic&logo=rest&logoColor=white)](https://restfulapi.net) |
+| **AI, ML & Vision** | [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)](https://pytorch.org) [![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8?style=plastic&logo=opencv&logoColor=white)](https://opencv.org) [![Gemini AI](https://img.shields.io/badge/Google_Gemini-API-8E75B2?style=plastic&logo=google&logoColor=white)](https://ai.google.dev) [![Groq](https://img.shields.io/badge/Groq-Llama_3-F55036?style=plastic)](https://groq.com) [![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=plastic&logo=scikitlearn&logoColor=white)](https://scikit-learn.org) [![NLP](https://img.shields.io/badge/NLP-Sentiment_%26_NER-059669?style=plastic)](https://python.org) |
+| **Databases & Storage** | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white)](https://postgresql.org) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)](https://mongodb.com) [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white)](https://sqlite.org) [![H2 Database](https://img.shields.io/badge/H2-In_Memory-007EC6?style=plastic)](https://www.h2database.com) |
+| **DevOps, IoT & Tools** | [![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)](https://docker.com) [![Render](https://img.shields.io/badge/Render-Cloud-46E3B7?style=plastic&logo=render&logoColor=white)](https://render.com) [![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)](https://vercel.com) [![ESP32 / FreeRTOS](https://img.shields.io/badge/ESP32-FreeRTOS-E7352C?style=plastic&logo=espressif&logoColor=white)](https://espressif.com) [![Unity VR](https://img.shields.io/badge/Unity_VR-000000?style=plastic&logo=unity&logoColor=white)](https://unity.com) [![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)](https://git-scm.com) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)](https://kernel.org) [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)](https://postman.com) |
 
 </div>
 
@@ -288,7 +341,7 @@ Availability: Open for SDE & AI/ML Internships / Full-Time Roles & Collaboration
 
 <div align="center">
 
-<p>I'm always eager to collaborate on ambitious projects, scalable systems, and software engineering opportunities.</p>
+<p>I am actively seeking software engineering, applied AI/ML, and full-stack opportunities, hackathon partnerships, and open-source collaborations.</p>
 
 <p align="center">
   <a href="https://portfolio-delta-five-xn2osh53b6.vercel.app/" target="_blank">
